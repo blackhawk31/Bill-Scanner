@@ -8,3 +8,9 @@ Document scanning can be broken down into three distinct and simple steps.
 ### And the final step is to apply a perspective transform to obtain a top-down, 90-degree view of the image, just as if we scanned the document.
 
 Optionally, you can also apply thresholding to obtain a nice, clean black and white feel to the piece of paper.
+
+## Results:
+
+![alt text](https://github.com/blackhawk31/Bill-Scanner/blob/master/Result.JPG)
+
+![alt text](https://github.com/blackhawk31/Bill-Scanner/blob/master/Example2.JPG)
